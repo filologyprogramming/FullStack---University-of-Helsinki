@@ -1,0 +1,15 @@
+sequenceDiagram
+    participant Browser
+    participant Server
+        
+        Browser->>Server: POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+        Server->>Browser: 201 created
+
+        Note right of Browser: The browser starts executing the JavaScript code that it fetched from the server
+
+        
+
+
+    
+
+
