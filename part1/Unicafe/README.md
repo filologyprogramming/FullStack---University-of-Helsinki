@@ -1,0 +1,1 @@
+A small React app which allows to give feedback

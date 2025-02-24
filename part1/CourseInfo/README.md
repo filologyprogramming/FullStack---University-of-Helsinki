@@ -1,0 +1,1 @@
+A small React application which shows content of courses
